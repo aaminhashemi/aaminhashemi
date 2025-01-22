@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aamin
 
-<!--
-**aaminhashemi/aaminhashemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on backend development. With expertise in web technologies and a knack for solving complex problems, I strive to build scalable, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 **Current Role**: Web Developer
+- 🔧 **Specialties**: Back End Development, API Design, Database Management
+- 🛠 **Tech Stack**:
+  - Frontend: HTML5, CSS3, JavaScript, Bootstrap, JQuery
+  - Backend: PHP, Laravel
+  - Tools & Platforms: Git, MySQL, Linux Servers
+---
+
+## 📈 GitHub Stats
+
+![Aamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 Email: youremail@example.com
+
