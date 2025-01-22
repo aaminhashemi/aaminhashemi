@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: youremail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/esmaeil-hashemi/)
+- 📧 Email: aaminhashemi74@gmail.com
 
