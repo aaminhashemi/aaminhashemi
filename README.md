@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 
 ## 📈 GitHub Stats
 
-![Aamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Aamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaminhashemi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaminhashemi&layout=compact&theme=radical)
 
 ---
 
